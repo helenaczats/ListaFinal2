@@ -1,0 +1,4 @@
+aresta,altura,resultado_esperado
+7,-15,"O comprimento da aresta e/ou da altura não pode ser negativo"
+-12,9,"O comprimento da aresta e/ou da altura não pode ser negativo"
+6,-8,"O comprimento da aresta e/ou da altura não pode ser negativo"
